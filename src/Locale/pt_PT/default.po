@@ -1,0 +1,288 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-02-15 19:48+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ArticlesController.php:33
+msgid "Your article has been saved."
+msgstr "O seu produto foi salvo"
+
+#: Controller/ArticlesController.php:36
+msgid "Unable to add your article."
+msgstr "Não foi possivel adicinar o seu artigo"
+
+#: Controller/ArticlesController.php:47
+msgid "Your article has been updated."
+msgstr ""
+
+#: Controller/ArticlesController.php:50
+msgid "Unable to update your article."
+msgstr ""
+
+#: Controller/ArticlesController.php:62
+msgid "The article with id: {0} has been deleted."
+msgstr ""
+
+#: Controller/CategoriesController.php:55;81
+msgid "The category has been saved."
+msgstr "A categoria foi salva."
+
+#: Controller/CategoriesController.php:59;85
+msgid "The category could not be saved. Please, try again."
+msgstr "Não foi possivel salvar. Por favor, tente outra vez."
+
+#: Controller/CategoriesController.php:104
+msgid "The category has been deleted."
+msgstr "A categoria foi eliminada."
+
+#: Controller/CategoriesController.php:106
+msgid "The category could not be deleted. Please, try again."
+msgstr "Não foi possivel eliminar a categoria. Por favor, tente outra vez."
+
+#: Controller/ProductsController.php:58;85
+msgid "The product has been saved."
+msgstr "O produto foi salvo."
+
+#: Controller/ProductsController.php:62;89
+msgid "The product could not be saved. Please, try again."
+msgstr "Não foi possivel salvar o produto. Por favor, tente outra vez."
+
+#: Controller/ProductsController.php:109
+msgid "The product has been deleted."
+msgstr "O produto foi eliminado."
+
+#: Controller/ProductsController.php:111
+msgid "The product could not be deleted. Please, try again."
+msgstr "Não foi possivel eliminar o produto. Por favor, tente outra vez."
+
+#: Controller/UsersController.php:34
+msgid "The user has been saved."
+msgstr "O utilizador foi salvo."
+
+#: Controller/UsersController.php:37
+msgid "Unable to add the user."
+msgstr "Não foi possivel adicionar o utilizador."
+
+#: Controller/UsersController.php:50
+msgid "Invalid username or password, try again"
+msgstr "Username ou Password invalidos, tente outra vez."
+
+#: Template/Articles/add.ctp:18
+#: Template/Articles/edit.ctp:14
+msgid "Save Article"
+msgstr "Salvar Artigo"
+
+#: Template/Categories/add.ctp:3
+#: Template/Categories/edit.ctp:3
+#: Template/Categories/index.ctp:3;16
+#: Template/Categories/view.ctp:3;34
+#: Template/Products/add.ctp:3
+#: Template/Products/edit.ctp:3
+#: Template/Products/index.ctp:3;18
+#: Template/Products/view.ctp:3
+msgid "Actions"
+msgstr "Ações"
+
+#: Template/Categories/add.ctp:4
+#: Template/Categories/edit.ctp:10
+#: Template/Categories/view.ctp:6
+#: Template/Products/add.ctp:5
+#: Template/Products/edit.ctp:11
+#: Template/Products/index.ctp:5
+#: Template/Products/view.ctp:8
+msgid "List Categories"
+msgstr "Listar Categorias"
+
+#: Template/Categories/add.ctp:5
+#: Template/Categories/edit.ctp:11
+#: Template/Categories/index.ctp:5
+#: Template/Categories/view.ctp:8
+#: Template/Products/add.ctp:4
+#: Template/Products/edit.ctp:10
+#: Template/Products/view.ctp:6
+msgid "List Products"
+msgstr "Listar Produtos"
+
+#: Template/Categories/add.ctp:6
+#: Template/Categories/edit.ctp:12
+#: Template/Categories/index.ctp:6
+#: Template/Categories/view.ctp:9
+#: Template/Products/index.ctp:4
+#: Template/Products/view.ctp:7
+msgid "New Product"
+msgstr "Novo Produto"
+
+#: Template/Categories/add.ctp:12
+msgid "Add Category"
+msgstr "Adicionar Categoria"
+
+#: Template/Categories/add.ctp:17
+#: Template/Categories/edit.ctp:23
+#: Template/Products/add.ctp:20
+#: Template/Products/edit.ctp:26
+#: Template/Users/add.ctp:11
+msgid "Submit"
+msgstr "Submeter"
+
+#: Template/Categories/edit.ctp:5
+#: Template/Categories/index.ctp:27
+#: Template/Categories/view.ctp:46
+#: Template/Products/edit.ctp:5
+#: Template/Products/index.ctp:31
+msgid "Delete"
+msgstr "Eliminar"
+
+#: Template/Categories/edit.ctp:7
+#: Template/Categories/index.ctp:27
+#: Template/Categories/view.ctp:5;46
+#: Template/Products/edit.ctp:7
+#: Template/Products/index.ctp:31
+#: Template/Products/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Tem a certeza que quer eliminar # {0}"
+
+#: Template/Categories/edit.ctp:18
+#: Template/Categories/view.ctp:4
+msgid "Edit Category"
+msgstr "Editar Categoria"
+
+#: Template/Categories/index.ctp:4
+#: Template/Categories/view.ctp:7
+#: Template/Products/add.ctp:6
+#: Template/Products/edit.ctp:12
+#: Template/Products/index.ctp:6
+#: Template/Products/view.ctp:9
+msgid "New Category"
+msgstr "Nova Categoria"
+
+#: Template/Categories/index.ctp:10
+msgid "Categories"
+msgstr "Categorias"
+
+#: Template/Categories/index.ctp:25
+#: Template/Categories/view.ctp:44
+msgid "View"
+msgstr "View"
+
+#: Template/Categories/index.ctp:26
+#: Template/Categories/view.ctp:45
+#: Template/Products/index.ctp:30
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Categories/index.ctp:35
+#: Template/Products/index.ctp:39
+msgid "first"
+msgstr "primeiro"
+
+#: Template/Categories/index.ctp:36
+#: Template/Products/index.ctp:40
+msgid "previous"
+msgstr "ultimo"
+
+#: Template/Categories/index.ctp:38
+#: Template/Products/index.ctp:42
+msgid "next"
+msgstr "proximo"
+
+#: Template/Categories/index.ctp:39
+#: Template/Products/index.ctp:43
+msgid "last"
+msgstr "anterior"
+
+#: Template/Categories/index.ctp:41
+#: Template/Products/index.ctp:45
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Página {{page}} de {{pages}}, mostrando {{current}} registos de um total de {{count}}"
+
+#: Template/Categories/view.ctp:5
+msgid "Delete Category"
+msgstr "Eliminar Categoria"
+
+#: Template/Categories/view.ctp:16
+msgid "Category Name"
+msgstr "Noma da Categoria"
+
+#: Template/Categories/view.ctp:20;32
+msgid "Category Id"
+msgstr "Id da Categoria"
+
+#: Template/Categories/view.ctp:25
+msgid "Related Products"
+msgstr "Produtos Relacionados"
+
+#: Template/Categories/view.ctp:29
+msgid "Id"
+msgstr "Id"
+
+#: Template/Categories/view.ctp:30
+#: Template/Products/view.ctp:16
+msgid "Product Name"
+msgstr "Nome do Produto"
+
+#: Template/Categories/view.ctp:31
+#: Template/Products/view.ctp:24
+msgid "Cost"
+msgstr "Custo"
+
+#: Template/Categories/view.ctp:33
+#: Template/Products/view.ctp:28
+msgid "Imagem"
+msgstr "Imagem"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erro"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Voltar"
+
+#: Template/Products/add.ctp:12
+msgid "Add Product"
+msgstr "Adicionar Produto"
+
+#: Template/Products/edit.ctp:18
+#: Template/Products/view.ctp:4
+msgid "Edit Product"
+msgstr "Editar Produto"
+
+#: Template/Products/index.ctp:10
+msgid "Products"
+msgstr "Produtos"
+
+#: Template/Products/view.ctp:5
+msgid "Delete Product"
+msgstr "Eliminar Produto"
+
+#: Template/Products/view.ctp:13
+msgid "Product Id: "
+msgstr "Id do Produto:"
+
+#: Template/Products/view.ctp:20
+msgid "Category"
+msgstr "Categoria"
+
+#: Template/Users/add.ctp:4
+msgid "Add User"
+msgstr "Adicionar Utilizador"
+
+#: Template/Users/login.ctp:5
+msgid "Please enter your username and password"
+msgstr "Por favor insira o username e password"
+
+#: Template/Users/login.ctp:9
+msgid "Login"
+msgstr "Iniciar Sessão"
+
